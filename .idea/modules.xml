@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stockticker.iml" filepath="$PROJECT_DIR$/.idea/modules/stockticker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stockticker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/stockticker_main.iml" group="stockticker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stockticker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/stockticker_test.iml" group="stockticker" />
+    </modules>
+  </component>
+</project>
