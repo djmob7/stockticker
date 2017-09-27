@@ -1,5 +1,5 @@
 # stockticker
-Simple command line stock ticker app using Yahoo Finance REST API.
+Simple command line stock ticker app using Yahoo Finance API.
 
 ## build
 Linux:
