@@ -2,7 +2,9 @@ group 'net.djtek.stockticker'
 version '1.0'
 
 apply plugin: 'java'
+apply plugin: 'application'
 
+mainClassName='net.djtek.stockticker.Program'
 sourceCompatibility = 1.8
 
 repositories {
