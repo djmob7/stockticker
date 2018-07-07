@@ -1,11 +1,11 @@
-package net.djtek.stockticker;
+package net.djtek.stockticker.gui;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.layout.FlowPane;
 import javafx.stage.Stage;
 
-public class StockTicker extends Application
+public class Program extends Application
 {
     public static void main(String... args){
         launch(args);

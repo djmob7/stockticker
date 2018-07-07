@@ -1,4 +1,4 @@
-package net.djtek.stockticker;
+package net.djtek.stockticker.console;
 
 import net.djtek.stockticker.marketdata.MarketDataProvider;
 import net.djtek.stockticker.marketdata.MarketDataProviderFactory;
